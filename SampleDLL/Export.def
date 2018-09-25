@@ -1,0 +1,6 @@
+LIBRARY SampleDLL
+
+DESCRIPTION 'This is sample DLL
+
+EXPORTS
+     RetrieveTempFilename
